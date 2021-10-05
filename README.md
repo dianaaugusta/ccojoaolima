@@ -1,6 +1,11 @@
 <h1>"W krainę zapomnienia..."</h1>
 <h3>Estudante de CCO pela Bandtec desde 2021.<br>
-Aprendendo: JS, Java, Python, R</h3>
+Aprendendo: JS, Java, Python, R</h3> <br>
+<h3> 
+Perfil em: pt_BR, en_EN
+Entusiasta em: de_DE
+Interesse em: ru_RU, fr_FR
+</h3>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccojoaolima&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
