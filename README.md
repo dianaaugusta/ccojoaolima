@@ -2,8 +2,8 @@
 <h3>Estudante de CCO pela Bandtec desde 2021.<br>
 Aprendendo: JS, Java, Python, R</h3> <br>
 <h3> 
-Perfil em: pt_BR, en_EN
-Entusiasta em: de_DE
+Perfil em: pt_BR, en_EN <br>
+Entusiasta em: de_DE <br>
 Interesse em: ru_RU, fr_FR
 </h3>
 
