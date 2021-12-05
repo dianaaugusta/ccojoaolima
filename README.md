@@ -1,4 +1,4 @@
-<h1>"W krainę zapomnienia..."</h1>
+<h1>"beaten but not defeated!"</h1>
 <h3>Estudante de CCO pela Bandtec desde 2021.<br>
 Aprendendo: JS, Java, Python, R</h3> <br>
 <h3> 
