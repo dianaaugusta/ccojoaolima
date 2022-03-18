@@ -1,6 +1,6 @@
 <h1>"lyudi nadoyeli..."</h1>
 <h3>Estudante de CCO pela SPTech(antiga Bandtec) desde 2021.<br>
-Aprendendo: Java, JS, Kotlin, e o que tudo que há de bom! </h3> <br>
+Aprendendo: Java, JS, Kotlin, Angular, CF e o que tudo que há de bom! </h3> <br>
 <h3> 
 Perfil em: pt_BR, en_EN <br>
 Entusiasta em: de_DE <br>
@@ -12,6 +12,8 @@ Interesse em: ru_RU, fr_FR
 
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/kotlin.png">
+<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/angular.png">
 <!--
 **ccojoaolima/ccojoaolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
