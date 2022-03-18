@@ -1,6 +1,6 @@
-<h1>"beaten but not defeated!"</h1>
-<h3>Estudante de CCO pela Bandtec desde 2021.<br>
-Aprendendo: JS, Java, Python, R</h3> <br>
+<h1>"lyudi nadoyeli..."</h1>
+<h3>Estudante de CCO pela SPTech(antiga Bandtec) desde 2021.<br>
+Aprendendo: Java, JS, Kotlin, e o que tudo que há de bom! </h3> <br>
 <h3> 
 Perfil em: pt_BR, en_EN <br>
 Entusiasta em: de_DE <br>
