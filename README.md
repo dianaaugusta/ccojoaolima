@@ -12,8 +12,6 @@ Interesse em: ru_RU, fr_FR
 
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/kotlin.png">
-<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/angular.png">
 <!--
 **ccojoaolima/ccojoaolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
