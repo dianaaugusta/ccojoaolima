@@ -1,7 +1,7 @@
 <h1>"lyudi nadoyeli..."</h1>
 <h3>Atualmente: desenvolvedor Front-end. 📌<br>
 <br>Atuava full-stack e me encontrei no front-end! Apaixonado a primeira vista por Flutter e Angular ❤️<br>
-Anteriormente também tive o privilégio de trabalhar com: Java, JS, Kotlin, CF e tudo que há de bom! </h3> 
+Anteriormente também tive o privilégio de trabalhar com: Java, JS, Kotlin, ColdFusion, JQuery e tudo que há de bom! </h3> 
 
 <h3> 📫 i'm also on: https://www.linkedin.com/in/jo%C3%A3o-henrique-lima-80688622b/ reach me there ^-~ </h3>
 
