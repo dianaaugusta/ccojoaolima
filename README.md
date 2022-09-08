@@ -3,16 +3,17 @@
 <br>Atuava full-stack e me encontrei no front-end! Apaixonado a primeira vista por Flutter e Angular ❤️<br>
 Anteriormente também tive o privilégio de trabalhar com: Java, JS, Kotlin, CF e tudo que há de bom! </h3> <br>
 
+<h3> 📫 i'm also on: https://www.linkedin.com/in/jo%C3%A3o-henrique-lima-80688622b/ reach me there ^-~ </h3>
+
 <h4> 
 Perfil em: 🇧🇷, 🇬🇧 <br>
 Entusiasta em: 🇩🇪 <br>
 </h4>
 
-📫 i'm also on: https://www.linkedin.com/in/jo%C3%A3o-henrique-lima-80688622b/ reach me there ^-~
 
-Front-end : <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <br>
+<h4> Front-end : <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <br>
 
-Back-end: <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+Back-end: <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">  </h4>
 <!--
 **ccojoaolima/ccojoaolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
