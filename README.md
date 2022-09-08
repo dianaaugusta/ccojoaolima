@@ -1,6 +1,7 @@
 <h1>"lyudi nadoyeli..."</h1>
-<h3>Estudante de CCO pela SPTech(antiga Bandtec) desde 2021.<br>
-Aprendendo: Java, JS, Kotlin, Angular, CF e tudo que há de bom! </h3> <br>
+<h3>Atualmente: desenvolvedor Front-end. ^-^<br>
+<br>Atuava full-stack e me encontrei no front-end! Apaixonado a primeira vista por Flutter e Angular<br>
+Anteriormente também tive o privilégio de trabalhar com: Java, JS, Kotlin, CF e tudo que há de bom! </h3> <br>
 <h3> 
 Perfil em: pt_BR, en_EN <br>
 Entusiasta em: de_DE <br>
