@@ -10,9 +10,6 @@ Entusiasta em: 🇩🇪 <br>
 
 📫 i'm also on: https://www.linkedin.com/in/jo%C3%A3o-henrique-lima-80688622b/ reach me there ^-~
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccojoaolima&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Front-end : <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <br>
 
 Back-end: <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
